@@ -24,9 +24,9 @@ Dw: Site / Sites Verwalten:
 
 - Servername: RPi4
 -  Verbinden: SFTP
--  Adresse: 192.168.178.202
+-  Adresse: 192.168.x.x
 -  Stammverzeichnis: websites/formen/
--  Web-URL: http://192.168.178.202/websites/formen/
+-  Web-URL: http://192.168.x.x/websites/formen/
 
 ## Work files
 
