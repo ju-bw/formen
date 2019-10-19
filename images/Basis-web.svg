@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 794 528">
+  <title>Basis-web</title>
+  <rect x="353.6" y="176.8" width="85" height="170" rx="41.4" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.9986111111111415px"/>
+  <rect x="465.6" y="176.8" width="85" height="170" rx="41.4" transform="translate(75.2 -111.4) rotate(13.5)" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.9986110819701466px"/>
+  <rect x="241.6" y="176.8" width="85" height="170" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.998611111111091px"/>
+  <rect x="2.7" y="1.7" width="170.1" height="70.92" rx="14.2" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:3.0015910517014905px"/>
+  <polygon points="64.3 420.8 125.8 526.8 2.8 526.8 64.3 420.8" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.998900187631274px"/>
+  <path d="M229.8,427.2l52.5,91.1a4.9,4.9,0,0,1-4.3,7.4H173a4.9,4.9,0,0,1-4.3-7.4l52.5-91.1A5,5,0,0,1,229.8,427.2Z" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.989829355007019px"/>
+  <ellipse cx="708" cy="65.2" rx="85" ry="28.5" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:3.0074176237909707px"/>
+  <ellipse cx="711.6" cy="65.2" rx="85" ry="28.5" transform="translate(162.5 522.4) rotate(-45)" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:3.0074176237911074px"/>
+  <circle cx="735.8" cy="469.8" r="56.5" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.989791666667126px"/>
+  <path d="M573.7,469.8h56.5a56.5,56.5,0,1,1-7.6-28.3Z" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.9897916666671263px"/>
+  <path d="M383.4,489.7l14.8-54.4a57.6,57.6,0,0,1,25.5,14.5,56.2,56.2,0,0,1,14.8,54.5Z" style="fill:none;stroke:#1d1d1b;stroke-miterlimit:10;stroke-width:2.9987938069382447px"/>
+</svg>

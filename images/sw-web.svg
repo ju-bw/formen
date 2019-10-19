@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 794.3 528.1">
+  <title>sw-web</title>
+  <rect x="353.4" y="176.5" width="85" height="170" rx="41.4" style="fill:#1d1d1b"/>
+  <rect x="465.4" y="176.5" width="85" height="170" rx="41.4" transform="translate(75.1 -111.4) rotate(13.5)" style="fill:#1d1d1b"/>
+  <rect x="241.4" y="176.5" width="85" height="170" style="fill:#1d1d1b"/>
+  <rect x="2.5" y="1.5" width="170.1" height="70.92" rx="14.2" style="fill:#1d1d1b"/>
+  <polygon points="64.1 420.6 125.6 526.6 2.6 526.6 64.1 420.6" style="fill:#1d1d1b"/>
+  <path d="M229.6,427l52.5,91a5,5,0,0,1-4.3,7.5h-105a5,5,0,0,1-4.3-7.5L221,427A5,5,0,0,1,229.6,427Z" style="fill:#1d1d1b"/>
+  <ellipse cx="707.8" cy="65" rx="85" ry="28.5" style="fill:#1d1d1b"/>
+  <ellipse cx="711.4" cy="65" rx="85" ry="28.5" transform="translate(162.6 522.2) rotate(-45)" style="fill:#1d1d1b"/>
+  <circle cx="735.7" cy="469.5" r="56.5" style="fill:#1d1d1b"/>
+  <path d="M573.5,469.5H630a56.4,56.4,0,1,1-7.5-28.2Z" style="fill:#1d1d1b"/>
+  <path d="M383.2,489.5,398,435a56.7,56.7,0,0,1,25.5,14.6A55.8,55.8,0,0,1,438.3,504Z" style="fill:#1d1d1b"/>
+</svg>
